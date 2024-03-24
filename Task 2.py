@@ -61,6 +61,8 @@
 myName = set('HARI')
 myName.add('HARI')
 print(myName)
+print(myName)
+print(myName)
 
 
 myName.remove('HARI')
