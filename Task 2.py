@@ -19,7 +19,9 @@
 # else:
 #     print(f"Ran Out of attempt the correct number is :{generated_num}")
 
-#-----------------------------------------------------------------------------------------------------------------------
+'''End of Conditional Statement'''
+
+'''Start of Nested Dictionary'''
 
 # student_info = {
 #     'Student_1':{'Name' : 'Hari','Roll_No' : 1,
@@ -53,12 +55,16 @@
 #     for key in s_info:
 #         print(key + ':',s_info[key])
 
-#-----------------------------------------------------------------------------------------------------------------------
+'''End of Nested Dictionary'''
+
 
 myName = set('HARI')
 myName.add('HARI')
 print(myName)
+
+
 myName.remove('HARI')
 print(myName)
 myName.pop()
+print(myName)
 print(myName)
